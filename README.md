@@ -1,2 +1,2 @@
 # studynotes
-Summary of important concepts and functionalities.
+Summary of important data science concepts and Python implementations.
